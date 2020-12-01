@@ -10,6 +10,4 @@ window.onload = () => {
       clearInterval(fadeEffect)
     }
   }, 80)
-
-  fadeEffect()
 }
